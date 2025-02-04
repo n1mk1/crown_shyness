@@ -8,7 +8,7 @@ This phenomenon is commonly observed among trees of the same species but can als
 
 ## Possible Causes  
 
-### Mechanical Abrasion  
+### Mechanical Abrasion  [currently testing]
 Tree branches may collide in the wind, causing damage that prevents further growth in those areas.  
 
 ### Light Competition  
@@ -24,4 +24,4 @@ Researchers have studied crown shyness since the 1920s, and multiple hypotheses 
 All my crown shyness project concepts sketches, WORK IN PROGRESS
 
 1st Version
-crown_shyness 
+crown_shyness - simulates Mechanical Abbrasion
