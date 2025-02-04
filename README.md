@@ -17,10 +17,6 @@ Trees may adjust their growth to maximize light exposure and reduce competition.
 ### Pest Prevention  
 Gaps in the canopy may help limit the spread of leaf-eating insect larvae.  
 
-## Scientific Study  
-Researchers have studied crown shyness since the 1920s, and multiple hypotheses suggest that different species may have evolved this trait independently.  
-
-
 All my crown shyness project concepts sketches, WORK IN PROGRESS
 
 1st Version
