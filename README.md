@@ -1,5 +1,4 @@
 # crown_shyness
-# Crown Shyness  
 
 ## Definition  
 Crown shyness is a natural phenomenon where the crowns of trees do not touch, forming distinct gaps in the canopy.  
